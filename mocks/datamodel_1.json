@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Accessories",
+    "id": 1,
+    "parent_id": 20
+  },
+  {
+    "name": "Watches",
+    "id": 57,
+    "parent_id": 1
+  },
+  {
+    "name": "Men",
+    "id": 20,
+    "parent_id": null
+  },
+  {
+    "name": "Cars",
+    "id": 6,
+    "parent_id": null
+  },
+  {
+    "name": "Audi",
+    "id": 61,
+    "parent_id": 6
+  },
+  {
+    "name": "BMW",
+    "id": 62,
+    "parent_id": 6
+  }
+]

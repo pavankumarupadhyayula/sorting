@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Accessories",
+    "id": 1,
+    "parent_id": 20
+  },
+  {
+    "name": "Watches",
+    "id": 57,
+    "parent_id": 1
+  },
+  {
+    "name": "Watches3",
+    "id": 58,
+    "parent_id": 1
+  },
+  {
+    "name": "Men",
+    "id": 20,
+    "parent_id": null
+  },
+  {
+    "name": "Phones",
+    "id": 3,
+    "parent_id": 5
+  },
+  {
+    "name": "Apple",
+    "id": 31,
+    "parent_id": 3
+  },
+  {
+    "name": "Apple11",
+    "id": 32,
+    "parent_id": 3
+  },
+  {
+    "name": "Samsung",
+    "id": 33,
+    "parent_id": 3
+  },
+  {
+    "name": "Computer",
+    "id": 64,
+    "parent_id": 5
+  },
+  {
+    "name": "Windows",
+    "id": 0,
+    "parent_id": 64
+  },
+  {
+    "name": "Electronics",
+    "id": 5,
+    "parent_id": null
+  },
+  {
+    "name": "Cars",
+    "id": 6,
+    "parent_id": null
+  },
+  {
+    "name": "Audi",
+    "id": 61,
+    "parent_id": 6
+  },
+  {
+    "name": "BMW",
+    "id": 62,
+    "parent_id": 6
+  }
+]
